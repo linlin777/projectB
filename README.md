@@ -1,6 +1,6 @@
 # projectB
 <body style="width:900px;margin:auto;">
-<h1><a href="https://tw.yahoo.com/" target="_blank">4/4新聞</a></h1>
+<h1><a target="_blank" href="https://tw.yahoo.com/">4/4新聞</a></h1>
 <ul>
 <li><em>政治</em>新聞</li>
 <li><em><strong>財經</strong></em>新聞</li>
