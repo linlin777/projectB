@@ -3,7 +3,7 @@
 <h1><a href="https://tw.yahoo.com/" target="_blank">4/4新聞</a></h1>
 <ul>
 <li><em><strong>政治</strong></em>新聞</li>
-    <img style="width:200px;" title="山茶花" src="15.jpg">
+    <img style="width:200px;" title="山茶花" src="pic/山茶花3.jpg">
 <li><em><strong>財經</strong></em>新聞</li>
 <li><em><strong>焦點</strong></em>新聞</li>
   <img src="https://s.yimg.com/uu/api/res/1.2/floXK1jTRya0X5OjnJ_3ug--~B/Zmk9dWxjcm9wO2N3PTExODg7ZHg9MDtjaD03MTk7ZHk9MDt3PTM5MjtoPTMwODtjcj0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/zh-Hant-TW/homerun/udn.com/ae4cca11cfe3d5fb8cc58a63dbb71035"<br>
