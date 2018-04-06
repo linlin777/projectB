@@ -4,8 +4,8 @@
 <ul>
 <li><em>政治</em>新聞</li>
 <li><em><strong>財經</strong></em>新聞</li>
-<li>焦點新聞</li>
-  <img src="https://s.yimg.com/uu/api/res/1.2/floXK1jTRya0X5OjnJ_3ug--~B/Zmk9dWxjcm9wO2N3PTExODg7ZHg9MDtjaD03MTk7ZHk9MDt3PTM5MjtoPTMwODtjcj0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/zh-Hant-TW/homerun/udn.com/ae4cca11cfe3d5fb8cc58a63dbb71035"
+ <li><em><strong>焦點</strong></em>新聞</li>
+  <img src="https://s.yimg.com/uu/api/res/1.2/floXK1jTRya0X5OjnJ_3ug--~B/Zmk9dWxjcm9wO2N3PTExODg7ZHg9MDtjaD03MTk7ZHk9MDt3PTM5MjtoPTMwODtjcj0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/zh-Hant-TW/homerun/udn.com/ae4cca11cfe3d5fb8cc58a63dbb71035"<br>
 <li><strong><em>影劇</em></strong>新聞</li>
 </ul>
 <P>4月4日，演員韓彩雅在個人SNS親自宣布已經懷孕6週。<br>
