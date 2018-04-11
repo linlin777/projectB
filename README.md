@@ -6,7 +6,7 @@
          <img title="山茶花" src="pic/15.jpg" width="300px">
     <li><em><strong>財經</strong></em>新聞</li>
     <li><em><strong>體育</strong></em>新聞</li>
-        <img alt="台將勝投飛了" src="https://tw.news.yahoo.com/%E5%B0%8F%E8%81%AF%E7%9B%9F-%E8%83%A1%E6%99%BA%E7%82%BA%E6%8C%A8%E8%BD%9F%E7%84%A1%E9%97%9C%E5%8B%9D%E6%95%97-%E6%9C%AC%E5%AD%A3%E9%A6%96%E5%8B%9D%E5%86%8D%E7%AD%89%E7%AD%89-033254449.html" width="200px"><br>
+        <img alt="假日飛刀手" src="https://s.yimg.com/ny/api/res/1.2/ePMP9GYLiWd9nn0sh5vXIQ--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjAwO2g9NDAw/http://media.zenfs.com/zh-Hant-TW/homerun/stormmediagroup.com/864634ee9492d93b135cc763f6a0d356" width="200px"><br>
     <li><strong><em>影劇</em></strong>新聞</li>
 </ul>
 <P>4月4日，演員韓彩雅在個人SNS親自宣布已經懷孕6週。<br>
