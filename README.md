@@ -2,12 +2,12 @@
 <body>
 <h1><a href="https://tw.yahoo.com/" target="_blank">4/4新聞</a></h1>
 <ul>
-<li><em><strong>政治</strong></em>新聞</li>
-    <img style="width:200px;" title="山茶花" src="pic/15.jpg">
-<li><em><strong>財經</strong></em>新聞</li>
-<li><em><strong>焦點</strong></em>新聞</li>
-  <img src="https://s.yimg.com/uu/api/res/1.2/floXK1jTRya0X5OjnJ_3ug--~B/Zmk9dWxjcm9wO2N3PTExODg7ZHg9MDtjaD03MTk7ZHk9MDt3PTM5MjtoPTMwODtjcj0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/zh-Hant-TW/homerun/udn.com/ae4cca11cfe3d5fb8cc58a63dbb71035"<br>
-<li><strong><em>影劇</em></strong>新聞</li>
+    <li><em><strong>政治</strong></em>新聞</li>
+         <img title="山茶花" src="pic/15.jpg" width="300px">
+    <li><em><strong>財經</strong></em>新聞</li>
+    <li><em><strong>體育</strong></em>新聞</li>
+        <img alt="台將勝投飛了" src="https://tw.news.yahoo.com/%E5%B0%8F%E8%81%AF%E7%9B%9F-%E8%83%A1%E6%99%BA%E7%82%BA%E6%8C%A8%E8%BD%9F%E7%84%A1%E9%97%9C%E5%8B%9D%E6%95%97-%E6%9C%AC%E5%AD%A3%E9%A6%96%E5%8B%9D%E5%86%8D%E7%AD%89%E7%AD%89-033254449.html" width="200px"><br>
+    <li><strong><em>影劇</em></strong>新聞</li>
 </ul>
 <P>4月4日，演員韓彩雅在個人SNS親自宣布已經懷孕6週。<br>
 韓彩雅發文稱：「想親自向大家宣布一個消息，寫親筆信有些不好意思呢。不久前我與相愛的人一起經過慎重對話決定共渡一生，感謝大家的祝福，每天都過得很幸福。一個新生命如同禮物一般來到，我已經是懷孕6週的準媽媽了。再次感謝大家的祝福與應援，我會努力成為一個好人，一個好演員。」</p>
